@@ -1,0 +1,19 @@
+//Node
+it has two sides
+ the v8/ js ir running here
+libuv/c++ is running here
+Stack is first in first out
+Que last in first out
+
+node is event base its wait for his application before it start working
+
+//Promise
+aync and await
+synchronus
+
+//process
+event loop is a loop that will not wait for any application that is wasting time
+
+
+consolog will run first if it is only consolog
+if theres a block of code before consolog , they will run first before consolog
